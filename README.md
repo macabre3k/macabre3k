@@ -18,6 +18,16 @@
  
 🌱 I’m currently learning **Python, SQL,HTML, CSS, GO**
 
+ <a href="https://stepik.org/users/688640580/profile">
+    <img src="https://img.shields.io/badge/Stepik-3333?style=for-the-badge&logo" />
+
+  </a>
+  
+  <a href="https://ru.hexlet.io/u/macabre3k">
+    <img src="https://img.shields.io/badge/Hexlet-3333?style=for-the-badge&logo" />
+ 
+  </a>
+
 🧚‍♀️  I’m also actively studying English
  
 ⚡ Fun fact **you and me already know each other**
@@ -29,11 +39,6 @@
     <img src="https://img.shields.io/badge/Gmail-3333?style=for-the-badge&logo=gmail&logoColor=red" />
              
     
-  </a>
-  
-  <a href="https://stepik.org/users/688640580/profile">
-    <img src="https://img.shields.io/badge/Stepik-3333?style=for-the-badge&logo" />
- 
   </a>
 
   
