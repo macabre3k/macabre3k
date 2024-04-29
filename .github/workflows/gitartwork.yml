@@ -15,4 +15,4 @@
             user_name: macabre3k
             # Text on contribution graph 
             text: MACABRE
-       - uses: jasineri/simple-push-action@v1
+       - uses: https://github.com/macabre3k
