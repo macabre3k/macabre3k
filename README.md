@@ -16,8 +16,15 @@
 
 <div align="center">
  
-🌱 I’m currently learning **Python, SQL,HTML, CSS, GO**
-
+🌱 I’m currently actively learning **SQL, HTML, CSS, GO**  
+</div>
+<div align="center">
+  
+ In these online courses👩‍🏫
+ 
+ </div>
+ 
+<div align="center">
  <a href="https://stepik.org/users/688640580/profile">
     <img src="https://img.shields.io/badge/Stepik-3333?style=for-the-badge&logo" />
 
