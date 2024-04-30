@@ -39,7 +39,7 @@
 
 🧚‍♀️  I’m also actively studying English
  
-⚡ Fun fact **you and me already know each other**
+⚡ Fun fact **you and i already know each other**
 
  </div>
  
