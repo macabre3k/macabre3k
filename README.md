@@ -1,11 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=macabre3k.macabre3k&left_color=purple"/>
-
-<div align="center">
-  <h1>Welcome to my page!</h1>
-  <p>Here you will find interesting materials and projects.</p>
-</div>
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Lesovaya+Mary!;Have+a+good+day!+⚡" />
 </h1>
