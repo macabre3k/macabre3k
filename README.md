@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-Through these online courses 👩‍🏫
+Through these online courses: 👩‍🏫
 </p>
 
 <div align="center">
