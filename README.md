@@ -67,7 +67,10 @@
 
 
 <br/><br/>
+# git-for-me
+**My calculator examples with conversion to Roman numerals/Arabic numbers.** 
 
+**And also a calculator with the ability to work with strings** 
 <hr/>
 
 <br/>
