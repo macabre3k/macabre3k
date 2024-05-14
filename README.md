@@ -60,7 +60,8 @@ Through these online courses 👩‍🏫
 <div align="center">
   <h2>🐍 My hungry snake for contribution 🐍</h2>
 
-![snake gif](https://github.com/macabre3k/macabre3k/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/macabre3k/macabre3k/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <hr/>
