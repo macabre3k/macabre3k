@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Lesovaya+Mary!;Have+a+good+day!+⚡" />
 </h1>
 
-<h3 align="center">I'm a passionate QA tester with a strong passion for technology <br> and aspirations to become a Go developer.</h3>
+<h3 align="center">I'm a passionate data analyst with a strong enthusiasm for technology 🚀 and aspirations to grow as a data engineer.</h3>
 
 <br/>
 
