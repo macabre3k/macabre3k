@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">I'm a passionate data analyst with a strong enthusiasm for technology 🚀 
+    
     and aspirations to grow as a data engineer.</h3>
 
 <br/>
