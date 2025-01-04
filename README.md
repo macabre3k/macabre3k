@@ -67,7 +67,7 @@ Through these online courses: 👩‍🏫
 <hr/>
 
 <br/><br/>
-# git-for-me
+# calculate_go
 My calculator examples with conversion to Roman numerals/Arabic numbers.<br>
 And also a calculator with the ability to work with strings.
 <hr/>
