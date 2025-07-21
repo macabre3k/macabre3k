@@ -81,14 +81,6 @@
 - Public speaking for data storytelling  
 - Documentation writing (Markdown, dbt docs)
 
----
-
-## 🧚‍♀️ Fun Fact
-
-> ⚡ You and I already know each other.
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -114,5 +106,12 @@ My calculator examples with conversion to Roman numerals / Arabic numbers.
 Also a calculator with the ability to work with strings.
 
 > *(See folder: `/calculate_go`)*
+
+---
+---
+
+## 🧚‍♀️ Fun Fact
+
+> ⚡ You and I already know each other.
 
 ---
