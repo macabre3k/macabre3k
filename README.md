@@ -34,53 +34,46 @@
 </div>
 
 ---
+<div align="center">
 
 ## ⚒ Languages, Frameworks & Tools
 
-<div align="center">
-  ## ⚒ Languages, Frameworks & Tools
-  <img src="https://skillicons.dev/icons?i=python,mysql,go,docker,kubernetes,linux,bash,git" />
-  <br/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,go,sql,docker,kubernetes,linux,bash,git,airflow,dbt,postgresql,clickhouse" />
 
 ---
 
 ## 💼 My Skills
 
+</div>
+
 <details>
 <summary><strong>🧠 Core Competencies</strong></summary>
 
-- SQL Performance Tuning (CTEs, window functions, indexes)
-- Designing normalized & denormalized schemas (Star/Snowflake)
-- Building ETL/ELT pipelines (Airflow, DBT, custom Python scripts)
-- Developing Data Warehouses in PostgreSQL, ClickHouse, BigQuery
-- Containerization & orchestration (Docker, K8s)
-- Bash scripting for data ops
+<div align="center">
+
+- SQL Performance Tuning (CTEs, indexes, window functions)  
+- Data Modeling (Star/Snowflake schemas)  
+- ETL/ELT pipelines using Airflow, dbt, Python  
+- DWH development: PostgreSQL, ClickHouse, BigQuery  
+- Docker & Kubernetes for deployment  
+- Bash scripting for automation  
 - CI/CD for data workflows (GitHub Actions, GitLab CI)
 
-</details>
-
-<details>
-<summary><strong>🚧 Currently Learning</strong></summary>
-
-- Go for high-perf data tools  
-- Kubernetes for orchestrating data infrastructure  
-- Google Cloud Platform (BigQuery, Composer, Dataflow)  
-- dbt advanced usage (tests, snapshots, documentation)
+</div>
 
 </details>
+
+<div align="center">
 
 ---
 
-## 👩‍🏫 Also improving:
+## 👩‍🏫 Also improving
 
 - English fluency  
 - Public speaking for data storytelling  
-- Documentation writing (Markdown, dbt docs)
+- Writing clear documentation (Markdown, dbt docs)  
+
+</div>
 
 ## 📫 Contact Me
 
