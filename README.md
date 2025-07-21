@@ -38,7 +38,7 @@
 ## ⚒ Languages, Frameworks & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,go,docker,kubernetes,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,go,docker,kubernetes,linux,bash,git" />
   <br/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
