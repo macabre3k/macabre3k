@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Lesovaya+Mary!;Have+a+good+day!+⚡" />
 </h1>
 
-<h3 align="center">I'm a data engineer, but in general I want to be a duck.</h3>
+<h3 align="center">I'm a data engineer</h3>
 
 <br/>
 
@@ -51,7 +51,7 @@ Through these online courses: 👩‍🏫
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,postman,pycharm" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,bash,go" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sql,bash,go" /><br>
 </div>
 
 <br/>
